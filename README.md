@@ -25,13 +25,10 @@
 * **Building impactful data solutions:** From ETL pipelines to data warehousing, I'm driven to create systems that unlock valuable insights.
 * **Cloud Technologies (AWS):**  Exploring the full potential of AWS services for data processing and infrastructure.
 * **Data-Driven Innovation:**  Applying cutting-edge technologies to solve real-world problems and improve business decisions.
-* **Open Source & Collaboration:**  Contributing to and learning from the open-source community.
-* **Continuous Learning:**  Staying up-to-date with the ever-evolving data engineering landscape.
 
 ### 🌱 I'm currently learning...
 
 * **Advanced Data Warehousing Techniques:** Deepening my knowledge of dimensional modeling, data lake architectures, and modern data warehousing strategies.
-* **Real-time Data Processing:** Exploring technologies like Apache Kafka, Flink, and cloud-based streaming services.
 * **DataOps & MLOps:**  Improving data pipeline reliability, automation, and integration with machine learning workflows.
 
 ### 🛠️ Technical Skills at a Glance:
