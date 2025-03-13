@@ -5,7 +5,7 @@
   <br />
 
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Yusuf%20Yuksel-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yusufyuksel-/)
-  [![Email Badge](https://img.shields.io/badge/Email-yusufyuksel.uk@gmail.com-red?style=flat-square&logo=mail)](mailto:yusufyuksel.uk@hotmail.com)
+  [![Email Badge](https://img.shields.io/badge/Email-yusufyuksel.uk@hotmail.com-red?style=flat-square&logo=mail)](mailto:yusufyuksel.uk@hotmail.com)
 
   <br />
   <br />
