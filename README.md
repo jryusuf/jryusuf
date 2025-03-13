@@ -1,6 +1,6 @@
 <div align="center">
 
-  👋 Hi, I'm **Yusuf Yuksel** 👋
+  👋 Hi, I'm **Yusuf** 👋
 
   <br />
 
@@ -10,7 +10,7 @@
   <br />
   <br />
 
-  🚀 **Data Engineer | Transforming Raw Data into Powerful Insights | Ex Mechatronics Engineer** 🚀
+  🚀 **Data Engineer | Ex Mechatronics Engineer** 🚀
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=50&color=007bff¢er=true&vCenter=true&width=600&lines=Passionate+about+Data+Engineering+%26+Innovation;Building+Scalable+Data+Pipelines;Cloud+Enthusiast+(AWS);Problem+Solver+%26+Creative+Thinker;Eager+to+Learn+%26+Contribute" alt="Typing SVG" />
@@ -50,13 +50,6 @@
 
 **Methodologies:**
 `Agile/Scrum` `Domain Driven Development` `Test Driven Development`
-
-### 💞️ I'm looking to collaborate on...
-
-* **Open Source Data Projects:** Contributing to or building open-source tools and libraries for data engineering.
-* **Data Pipeline Challenges:**  Working on projects that involve designing, building, and optimizing ETL or data processing pipelines.
-* **Cloud-Based Data Solutions:**  Collaborating on projects leveraging AWS or other cloud platforms for data infrastructure.
-* **Innovative Data Applications:**  Exploring creative ways to use data to solve interesting problems.
 
 ### 📫 How to reach me:
 
