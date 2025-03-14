@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Data Engineer | Ex Mechatronics Engineer
 👀 <b>I'm interested in...</b><be>
 Building impactful data solutions: From ETL pipelines to data warehousing, I'm driven to create systems that unlock valuable insights.<br>Cloud Technologies (AWS): Exploring the full potential of AWS services for data processing and infrastructure.<br>Data-Driven Innovation: Applying cutting-edge technologies to solve real-world problems and improve business decisions.<br><br>
 🌱 <b>I'm currently learning...</b>
