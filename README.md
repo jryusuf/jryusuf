@@ -1,66 +1,19 @@
-<div align="center">
-
-  👋 Hi, I'm **Yusuf** 👋
-
-  <br />
-
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Yusuf%20Yuksel-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yusufyuksel-/)
-  [![Email Badge](https://img.shields.io/badge/Email-yusufyuksel.uk@hotmail.com-red?style=flat-square&logo=mail)](mailto:yusufyuksel.uk@hotmail.com)
-
-  <br />
-  <br />
-
-  🚀 **Data Engineer | Ex Mechatronics Engineer** 🚀
-
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=50&color=007bff¢er=true&vCenter=true&width=600&lines=Passionate+about+Data+Engineering+%26+Innovation;Building+Scalable+Data+Pipelines;Cloud+Enthusiast+(AWS);Problem+Solver+%26+Creative+Thinker;Eager+to+Learn+%26+Contribute" alt="Typing SVG" />
-  </p>
-
-</div>
-
----
-
-### 👀 I'm interested in...
-
-* **Building impactful data solutions:** From ETL pipelines to data warehousing, I'm driven to create systems that unlock valuable insights.
-* **Cloud Technologies (AWS):**  Exploring the full potential of AWS services for data processing and infrastructure.
-* **Data-Driven Innovation:**  Applying cutting-edge technologies to solve real-world problems and improve business decisions.
-
-### 🌱 I'm currently learning...
-
-* **Advanced Data Warehousing Techniques:** Deepening my knowledge of dimensional modeling, data lake architectures, and modern data warehousing strategies.
-* **DataOps & MLOps:**  Improving data pipeline reliability, automation, and integration with machine learning workflows.
-
-### 🛠️ Technical Skills at a Glance:
-
-**Programming Languages:**
-`Python` `JavaScript` `TypeScript` `PHP` `C` `C++`
-
-**Data Engineering Tools & Frameworks:**
-`FastAPI` `SQLAlchemy` `Pydantic` `Pandas` `Pytest` `SQL` `PostgreSQL` `Redis` `NoSQL`
-
-**Cloud (AWS):**
-`EC2` `Lambda` `RDS` `S3` `IAM` `Athena` `SNS` `CloudWatch` `Glue` `Step Functions` `State Machine` `VPC`
-
-**DevOps:**
-`Terraform` `CI/CD (GitHub Actions)` `Docker` `Linux` `Bash` `Git`
-
-**Methodologies:**
-`Agile/Scrum` `Domain Driven Development` `Test Driven Development`
-
-### 📫 How to reach me:
-
-* **Email:** [yusufyuksel.uk@hotmail.com](mailto:yusufyuksel.uk@hotmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/yusufyuksel-/](https://www.linkedin.com/in/yusufyuksel-/)
-* **GitHub:** [@jryusuf](https://github.com/jryusuf)
+# 💫 About Me:
+👀 <b>I'm interested in...</b><be>
+Building impactful data solutions: From ETL pipelines to data warehousing, I'm driven to create systems that unlock valuable insights.<br>Cloud Technologies (AWS): Exploring the full potential of AWS services for data processing and infrastructure.<br>Data-Driven Innovation: Applying cutting-edge technologies to solve real-world problems and improve business decisions.<br><br>
+🌱 <b>I'm currently learning...</b>
+<br>Advanced Data Warehousing Techniques: Deepening my knowledge of dimensional modeling, data lake architectures, and modern data warehousing strategies.<br>DataOps & MLOps: Improving data pipeline reliability, automation, and integration with machine learning workflows.<br>🛠️ Technical Skills at a Glance:<br>Programming Languages: Python JavaScript TypeScript PHP C C++<br><br>Data Engineering Tools & Frameworks: FastAPI SQLAlchemy Pydantic Pandas Pytest SQL PostgreSQL Redis NoSQL<br><br>Cloud (AWS): EC2 Lambda RDS S3 IAM Athena SNS CloudWatch Glue Step Functions State Machine VPC<br><br>DevOps: Terraform CI/CD (GitHub Actions) Docker Linux Bash Git<br><br>Methodologies: Agile/Scrum Domain Driven Development Test Driven Development<br><br>📫 How to reach me:<br>Email: yusufyuksel.uk@hotmail.com<br>LinkedIn: https://www.linkedin.com/in/yusufyuksel-/<br>GitHub: @jryusuf<br><br>
+⚡ <b>Fun fact:</b><br>Beyond data, I'm passionate about engineering in the physical world too! I've designed and even built a micro turbojet engine from scratch – showcasing my dedication to problem-solving and hands-on creation in diverse domains. When I'm not wrangling data, you might find me cycling, capturing moments through photography, or experimenting with 3D printing and metal manufacturing.
 
 
-### ⚡ Fun fact:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusufyuksel-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yusufyuksel.uk@hotmail.com) 
 
-* Beyond data, I'm passionate about **engineering in the physical world** too!  I've designed and even built a **micro turbojet engine** from scratch – showcasing my dedication to problem-solving and hands-on creation in diverse domains.  When I'm not wrangling data, you might find me cycling, capturing moments through photography, or experimenting with 3D printing and metal manufacturing.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat-square&logo=jinja&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=flat-square&logo=Pocketbase&logoColor=black) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=flat-square&logo=codecov&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=flat-square&logo=opentelemetry&logoColor=black) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=flat-square&logo=openapiinitiative&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat-square&logo=prettier&logoColor=black) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jryusuf&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jryusuf&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jryusuf&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jryusuf&style=flat-square&color=blue" alt="Profile views" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
