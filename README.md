@@ -1,22 +1,20 @@
-#  Data Engineer | Ex Mechatronics Engineer
-Driven by a passion for building **impactful data solutions** that unlock valuable insights. I thrive on creating robust systems, from **ETL pipelines** to **data warehouses**, and exploring the potential of **cloud technologies (AWS)**.  I'm always seeking to apply **data-driven innovation** to solve real-world problems.
+# Senior Backend Engineer · Applied AI — London, UK
 
-🌱 **Currently Leveling Up:**
+I build and run the backend systems products depend on: APIs, billing and payments, async pipelines, and AI services in production. I take features from a vague brief through to a deployed, monitored service, and I set the standards (tooling, CI/CD, testing) that new services are built on.
 
-*   Deep Dive into **Advanced Data Warehousing** (Dimensional Modeling, Data Lakes)
-*   Mastering **DataOps & MLOps** for reliable and automated data pipelines.
+### What I focus on
 
-🛠️ **Tech Stack at a Glance:**
+- Production backends for AI products: generation services, async job processing, vector search, usage based billing.
+- The hard parts of running AI in production: retries, queueing, GPU memory, cost, and monitoring when models misbehave.
+- Data pipelines and automation that remove manual work.
+- Project foundations: CI/CD, testing standards, and engineering guidelines a team can build against.
 
-*   **Languages:** Python, JavaScript, Go
-*   **Frameworks:** FastAPI, Django, Express, Gin
-*   **Data Engineering:** Python (Pandas, Numpy), SQL, NoSQL Databases
-*   **Cloud:** AWS, Terraform, Ansible
-*   **Practices:** DevOps, Agile/Scrum, Test Driven Development
+### Tech I work with
 
-⚡ **Fun Fact:**  Beyond bits and bytes, I'm a hands-on engineer! I've designed and built a micro turbojet engine and CNC machines from scratch.  When not coding, I enjoy cycling, photography, and tinkering with 3D printing & metal manufacturing.
+`Python` · `TypeScript` · `Go` · `FastAPI` · `Django` · `Celery` · `RabbitMQ` · `PostgreSQL` · `pgvector` · `Redis` · `DuckDB` · `MinIO` · `Google Gemini` · `Vertex AI` · `AWS` · `Azure` · `Kubernetes` · `Docker` · `GitHub Actions`
 
-Let's connect!  🚀
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusufyuksel-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yusufyuksel.uk@hotmail.com) 
+### Get in touch
+
+- Email: yusufyuksel.uk@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/yusufyuksel-/
